@@ -13,7 +13,7 @@ Este projeto é um **Conversor de Moedas** desenvolvido em **Java**, que utiliza
 
 1️⃣ **Clonar o repositório**
 
-git clone https://github.com/seuusuario/conversor-de-moedas.git
+git clone https://github.com/everton-chiara/conversor-de-moedas.git
 cd conversor-de-moedas
 
 
