@@ -14,7 +14,7 @@ Este projeto é um **Conversor de Moedas** desenvolvido em **Java**, que utiliza
 1️⃣ **Clonar o repositório**
 
 git clone https://github.com/everton-chiara/conversor-de-moedas.git
-cd conversor-de-moedas
+
 
 
 2️⃣ **Instalar a dependência Gson (se usar Maven)**
@@ -42,8 +42,11 @@ java MenuConversor
 
 
 💡 **Como usar**
+
 1️⃣ Escolha uma opção no menu.
+
 2️⃣ Insira o valor a ser convertido.
+
 3️⃣ Veja o resultado baseado nas taxas de câmbio atualizadas.
 ********************************************
 
